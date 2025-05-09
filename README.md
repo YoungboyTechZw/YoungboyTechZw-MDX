@@ -14,8 +14,8 @@ src="https://i.imgur.com/GVW7aoD.jpeg">
 
  <p align="center">
 <a href="https://github.com/OfficialKango/followers"><img title="Followers" src="https://img.shields.io/github/followers/OfficialKango?color=purple&style=flat-square"></a>
-<a href="https://github.com/OfficialKango/KANGO-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/OfficialKango/KANGO-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/OfficialKango/KANGO-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/OfficialKango/KANGO-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/YoungboyTechZw/YoungboyTechZw-MDX/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/OfficialKango/KANGO-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/YoungboyTechZw/YoungboyTechZw-MDX/network/members"><img title="Forks" src="https://img.shields.io/github/forks/OfficialKango/KANGO-XMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/OfficialKango/KANGO-XMD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/OfficialKango/KANGO-XMD?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/OfficialKango/KANGO-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/OfficialKango/KANGO-XMD?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOfficialKango%2FKANGO-XMD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
@@ -32,17 +32,17 @@ src="https://i.imgur.com/GVW7aoD.jpeg">
     </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 🛠️ `KANGO-XMD INSTALLATION`
+## 🛠️ `YoungboyTechZw-MDX INSTALLATION`
 
 
 
 1. Fork and star this repo first
 
-Click the button below to fork KANGO-XMD Repository to your GitHub account:
+Click the button below to fork YoungboyTechZw-MDX Repository to your GitHub account:
 
   <br>
     <p align="left">
-  <a href="https://github.com/OfficialKango/KANGO-XMD/fork"><img title="KANGO-XMD" src="https://img.shields.io/badge/FORK-KANGO-XMDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/YoungboyTechZw/YoungboyTechZw-MDX/fork"><img title="KANGO-XMD" src="https://img.shields.io/badge/FORK-KANGO-XMDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
