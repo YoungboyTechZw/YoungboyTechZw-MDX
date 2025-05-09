@@ -1,4 +1,3 @@
-# YoungboyTechZw-MD
 
 
 <img align="center" height="auto"
@@ -9,24 +8,24 @@ src="https://i.imgur.com/GVW7aoD.jpeg">
 
    </p>
 <p align="center">
-<a href="https://github.com/OfficialKango"><img title="Author" src="https://img.shields.io/badge/Hector-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@official_manuel"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/233509977126"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/YoungboyTechZw"><img title="Author" src="https://img.shields.io/badge/Hector-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@nickson"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/263714529036"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
  <p align="center">
-<a href="https://github.com/OfficialKango/followers"><img title="Followers" src="https://img.shields.io/github/followers/OfficialKango?color=purple&style=flat-square"></a>
-<a href="https://github.com/YoungboyTechZw/YoungboyTechZw-MDX/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/OfficialKango/KANGO-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/YoungboyTechZw/YoungboyTechZw-MDX/network/members"><img title="Forks" src="https://img.shields.io/github/forks/OfficialKango/KANGO-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/OfficialKango/KANGO-XMD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/OfficialKango/KANGO-XMD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/OfficialKango/KANGO-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/OfficialKango/KANGO-XMD?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOfficialKango%2FKANGO-XMD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/OfficialKango/KANGO-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
-<p align="center"><img src="https://profile-counter.glitch.me/{KANGO-XMD}/count.svg" alt="OfficialKango :: Visitor's Count" old_src="https://profile-counter.glitch.me/{OfficialKango}/count.svg" /></p>
+<a href="https://github.com/YoungboyTechZw/followers"><img title="Followers" src="https://img.shields.io/github/followers/YoungboyTechZw?color=purple&style=flat-square"></a>
+<a href="https://github.com/YoungboyTechZw/YoungboyTechZw-MDX/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/YoungboyTechZw/YoungboyTechZw-MDX?color=blue&style=flat-square"></a>
+<a href="https://github.com/YoungboyTechZw/YoungboyTechZw-MDX/network/members"><img title="Forks" src="https://img.shields.io/github/forks/YoungboyTechZw/YoungboyTechZw-MDX?color=blue&style=flat-square"></a>
+<a href="https://github.com/YoungboyTechZw/YoungboyTechZw-MDX/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/YoungboyTechZw/YoungboyTechZw-MDX?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/OfficialKango/KANGO-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/YoungboyTechZw/YoungboyTechZw-MDX?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoungboyTechZw%2FYoungboyTechZw-MDX&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/YoungboyTechZw-MDX/YoungboyTechZw-MDX/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
+<p align="center"><img src="https://profile-counter.glitch.me/{YoungboyTechZw-MDX}/count.svg" alt="YoungboyTechZw :: Visitor's Count" old_src="https://profile-counter.glitch.me/{OfficialKango}/count.svg" /></p>
 <p align="center">
-<a href="https://github.com/OfficialKango/KANGO-XMD"Kango"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=KANGO-XMD&label=VIEWS&style=flat-square&color=blue" />
+<a href="https://github.com/YoungboyTechZw/YoungboyTechZw-MDX"Kango"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=YoungboyTechZw-MDX&label=VIEWS&style=flat-square&color=blue" />
 </a>
 <p align="center">
-  <a href="https://github.com/OfficialKango/KANGO-XMD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/YoungboyTechZw/YoungboyTechZw-MDX"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
 
 <p align='center'>
     </p>
@@ -38,11 +37,11 @@ src="https://i.imgur.com/GVW7aoD.jpeg">
 
 1. Fork and star this repo first
 
-Click the button below to fork YoungboyTechZw-MDX Repository to your GitHub account:
+Click the button below to fork KANGO-XMD Repository to your GitHub account:
 
   <br>
     <p align="left">
-  <a href="https://github.com/YoungboyTechZw/YoungboyTechZw-MDX/fork"><img title="KANGO-XMD" src="https://img.shields.io/badge/FORK-KANGO-XMDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/YoungboyTechZw/YoungboyTechZw-MDX/fork"><img title="KANGO-XMD" src="https://img.shields.io/badge/FORK-YoungboyTechZw-MDXh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -58,13 +57,13 @@ Click the button below to fork YoungboyTechZw-MDX Repository to your GitHub acco
 
 ## `DEPLOYMENTS`
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FOfficialKango%2FKANGO-XMD) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FYounYoungboyTechZw%2YoungboyTechZw-MDX) 
 
 💯 safe
     <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 
-[![Deploy on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/github/OfficialKango/KANGO-XMD)
+[![Deploy on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/github/YoungboyTechZw/YoungboyTechZw-MDX)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -72,7 +71,7 @@ Click the button below to fork YoungboyTechZw-MDX Repository to your GitHub acco
 <details>
 <summary>𝘋𝘌𝘗𝘓𝘖𝘠 𝘛𝘖 𝘏𝘌𝘙𝘖𝘒𝘜, 𝘔𝘌𝘛𝘏𝘖𝘋 2</summary>
  
-* `Fork` KANGO-XMD Repository or `sync` if you had forked.
+* `Fork` YoungboyTechZw-MDX Repository or `sync` if you had forked.
 * `Link` to your WhatsApp using Server 1, 2 or 3
 * Incase you use Server 2, paste the session id on settings.js @SESSION_ID
 * If you used Server 3, upload the `creds.json` received in the `session` folder.
@@ -83,7 +82,7 @@ Click the button below to fork YoungboyTechZw-MDX Repository to your GitHub acco
 * Then choose create new app
 * Enter your app name and Create.
 * Connect with your GitHub account.
-* Search KANGO-XMD, and connect.
+* Search YoungboyTechZw-MDX, and connect.
 * Press deploy and wait for a few minutes.
 * Enjoy.
 </details>
@@ -96,7 +95,7 @@ Click the button below to fork YoungboyTechZw-MDX Repository to your GitHub acco
 <br>
 > Click below to download the bot file :
 <p align="left">
-<a href="https://github.com/OfficialKango/KANGO-XMD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-green" alt="Rainhost Files" width="150"></a>
+<a href="https://github.com/YoungboyTechZw/YoungboyTechZw-MDX/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-green" alt="Rainhost Files" width="150"></a>
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
   
@@ -153,8 +152,8 @@ Click the button below to fork YoungboyTechZw-MDX Repository to your GitHub acco
   
 ## `CLONE REPO & INSTALLATION DEPENDENCIES`
 ```bash
-git clone https://github.com/OfficialKango/KANGO-XMD.git
-cd KANGO-XMD 
+git clone https://github.com/YoungboyTechZw/YoungboyTechZw-MDX.git
+cd YoungboyTechZw-MDX 
 npm start
 ```
 
@@ -169,8 +168,8 @@ sudo apt-get install -y nodejs
 sudo apt-get install -y ffmpeg
 sudo apt-get install -y wget
 sudo apt-get install -y imagemagick
-git clone https://github.com/OfficialKango/KANGO-XMD.git
-cd KANGO-XMD
+git clone https://github.com/YoungboyTechZw/YoungboyTechZw-MDX.git
+cd YoungboyTechZw-MDX
 npm install
 npm start
 ```
@@ -201,7 +200,7 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 
 - This bot is made for educational purposes `only` hence `DO NOT MISUSE`.
 
-**© KANGO Bot**
+**© YoungboyTechZw-MDX Bot**
 ##
 ![MIT License](https://img.shields.io/badge/License-green.svg)
 
