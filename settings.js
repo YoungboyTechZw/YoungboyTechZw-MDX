@@ -5,8 +5,8 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "MALVIN-XD~tw4QADrb#3vIeHvoICLX9uIJR1B52ygD5VfJSByWSrGcpBNQAn-c",
-// add your Session Id ,session id starts with MALVIN-XD~
+SESSION_ID: process.env.SESSION_ID || "YOUNGBOWY~tw4QADrb#3vIeHvoICLX9uIJR1B52ygD5VfJSByWSrGcpBNQAn-c",
+// add your Session Id ,session id starts with YOUNGBOWY~
 
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
@@ -35,10 +35,10 @@ OWNER_NAME: process.env.OWNER_NAME || "✦YOUNGBOYTECH-MD✦",
 DESCRIPTION: process.env.DESCRIPTION || "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✦YOUNGBOYTECH-MD✦*",
 // add bot owner name    
 
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/bddvfr.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/eg4c3k.jpg",
 // add img for alive msg
 
-MENU_IMG: process.env.MENU_IMG || "https://files.catbox.moe/gld2vo.jpg",
+MENU_IMG: process.env.MENU_IMG || "https://files.catbox.moe/eg4c3k.jpg",
 // dont change menu image
 
 LIVE_MSG: process.env.LIVE_MSG || "> ✦✦YOUNGBOYTECH-MD✦ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦YOUNGBOYTECH-MD✦ ғʀᴏᴍ ɴᴇxᴜs ᴛᴇᴄʜ ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/YoungboyTechZw/YoungboyTechZw-MD",
