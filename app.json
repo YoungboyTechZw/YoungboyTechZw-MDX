@@ -1,7 +1,7 @@
 {
   "name": "✦YOUNGBIYTECH-MD✦",
   "description": "Javascript WhatsApp bot made by ✦YOUNGBOY TECH✦",
-  "logo": "https://files.catbox.moe/gld2vo.jpg",
+  "logo": "https://files.catbox.moe/eg4c3k.jpg",
   "keywords": ["YOUNGBOYTECH"],
   "success_url": "/",
 
@@ -16,13 +16,13 @@
     "MENU_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": false,
-      "value": "https://files.catbox.moe/gld2vo.jpg"
+      "value": "https://files.catbox.moe/eg4c3k.jpg"
     }, 
     
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": false,
-      "value": "https://files.catbox.moe/ktd1l4.jpg"
+      "value": "https://files.catbox.moe/eg4c3k.jpg"
     }, 
     
     "LIVE_MSG": {
