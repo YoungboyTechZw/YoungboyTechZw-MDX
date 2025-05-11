@@ -9,13 +9,13 @@ src="https://files.catbox.moe/eg4c3k.jpg">
 
 1. Fork and star this repo first
 
-Click the button below to fork YoungboyTechZw-MDXRepository to your GitHub account:
+Click the button below to fork YoungboyTechZw-MDX #Repository to your GitHub account:
 
   <br>
     <p align="left">
-  <a href="https://github.com/YoungboyTechZw/YoungboyTechZw-MDX/fork"><img title="KANGO-XMD" src="https://img.shields.io/badge/FORK-YoungboyTechZw-MDXh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/YoungboyTechZw/YoungboyTechZw-MDX/fork"><img title="YoungboyTechZw-MDX" src="https://img.shields.io/badge/FORK-YoungboyTechZw-MDXh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<a><img src='https://files.catbox.moe/eg4c3k.jpg'/>
 
 🔑 Get Session ID (WhatsApp Pair Code Login)
 
@@ -25,19 +25,19 @@ Click the button below to fork YoungboyTechZw-MDXRepository to your GitHub accou
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
   </a>
 </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<a><img src='https://files.catbox.moe/eg4c3k.jpg'/>
 
 ## `DEPLOYMENTS`
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FYounYoungboyTechZw%2YoungboyTechZw-MDX) 
 
 💯 safe
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/>
+    <a><img src='https://files.catbox.moe/eg4c3k.jpg'/>
 
 
 [![Deploy on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/github/YoungboyTechZw/YoungboyTechZw-MDX)
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<a><img src='https://files.catbox.moe/eg4c3k.jpg'/>
 
 
 <details>
@@ -58,7 +58,7 @@ Click the button below to fork YoungboyTechZw-MDXRepository to your GitHub accou
 * Press deploy and wait for a few minutes.
 * Enjoy.
 </details>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<a><img src='https://files.catbox.moe/eg4c3k.jpg'/>
 
 <details>
 <summary>𝘔𝘖𝘙𝘌 𝘋𝘌𝘗𝘓𝘖𝘠𝘔𝘌𝘕𝘛𝘚</summary>
@@ -73,7 +73,7 @@ Click the button below to fork YoungboyTechZw-MDXRepository to your GitHub accou
   
 > Click below to deploy on Katabump :
 <p align="left">
-  <a href="https://dashboard.katabump.com/welcome/#14aeb2">
+  <a href="https://dashboard.katabump.com/auth/login#f4df56">
     <img src="https://img.shields.io/badge/Deploy%20to%20Katabump-Hosting-6962a6?style=for-the-badge&logo=katabump&logoColor=red"/>
   </a>
 <br>
