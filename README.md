@@ -1,4 +1,7 @@
-https://files.catbox.moe/eg4c3k.jpg
+
+<img align="center" height="auto"
+src="https://files.catbox.moe/eg4c3k.jpg">
+
 
 ## 🛠️ `YoungboyTechZw-MDX INSTALLATION`
 
